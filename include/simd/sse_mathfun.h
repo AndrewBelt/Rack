@@ -178,7 +178,7 @@ inline __m128 sse_mathfun_exp_ps(__m128 x) {
 }
 
 
-/* evaluation of 4 sines at onces, using only SSE1+MMX intrinsics so
+/* evaluation of 4 sines at once, using only SSE1+MMX intrinsics so
    it runs also on old athlons XPs and the pentium III of your grand
    mother.
 
